@@ -95,7 +95,7 @@ Certificações emitidas pela Google Cloud:
 ### 📫 Como Me Encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rogeriocabraldev/)
-- 🌐 [Portfólio](https://rogeriocabral.dev) *(exemplo — substitua pelo seu real)*
+- 🌐 [Portfólio](https://rogeriocabral.dev) 
 - 📧 rogeriocabraldev@gmail.com
 
 ---
